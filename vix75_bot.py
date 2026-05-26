@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 VIX75 Heikin Ashi Bearish Flip Alert Bot
